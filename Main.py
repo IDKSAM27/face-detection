@@ -157,6 +157,8 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
 
 
+# Add a database to the detection
+
 
 """
 # For comparison, below system uses tkinter whereas above uses PyQt
